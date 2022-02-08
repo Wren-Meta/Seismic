@@ -1,6 +1,7 @@
-# obspyDMT (obspy Data Management Tool) 
+## [1] obspyDMT (obspy Data Management Tool) 
 Link https://github.com/kasra-hosseini/obspyDMT
-'''
+
+```
 @article{hosseini2017obspydmt,
   title={ObspyDMT: a Python toolbox for retrieving and processing large seismological data sets},
   author={Hosseini, Kasra and Sigloch, Karin},
@@ -11,4 +12,4 @@ Link https://github.com/kasra-hosseini/obspyDMT
   year={2017},
   publisher={Copernicus GmbH}
 }
-'''
+```
