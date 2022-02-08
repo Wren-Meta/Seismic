@@ -26,3 +26,18 @@ This repository summaries several seismic data source
     publisher={Copernicus GmbH}
   }
   ```
+  
+  
+  >[3] The SCEDC dataset can be downloaded from ( http://scedc.caltech.edu/research-tools/deeplearning.html) or (https://github.com/interseismic/generalized-phase-detection).
+  ```
+  @article{ross2018generalized,
+  title={Generalized Seismic Phase Detection with Deep LearningShort Note},
+  author={Ross, Zachary E and Meier, Men-Andrin and Hauksson, Egill and Heaton, Thomas H},
+  journal={Bulletin of the Seismological Society of America},
+  volume={108},
+  number={5A},
+  pages={2894--2901},
+  year={2018},
+  publisher={GeoScienceWorld}
+  }
+  ```
