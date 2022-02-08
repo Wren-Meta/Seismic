@@ -1,1 +1,1 @@
-# seismic-data
+# Seismic
